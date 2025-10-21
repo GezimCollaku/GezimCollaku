@@ -20,6 +20,14 @@
 
 Here are a few full-stack websites I've built:
 
+### 🔹 [Real Estate](https://github.com/GezimCollaku/Real-Estate)
+>A Real Estate website with a responsive frontend and Django-powered backend.
+
+- HTML, CSS, JavaScript  
+- Django (Python)
+
+---
+
 ### 🔹 [PizzaBros](https://github.com/GezimCollaku/PizzaBros)
 > A pizza ordering website with a responsive frontend and Django-powered backend.
 
