@@ -6,19 +6,28 @@
 🌍 Based in Tirana, Albania
 
 ---
+## 🚀 My Projects
 
+Here are a few full-stack websites I've built:
 ## 🛠 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Django), C#, ASP.NET Core Web API
 - Database: SQLite, PostgreSQL, SQL Server, Entity Framework Core
 - Tools & Platforms: Git, GitHub, Visual Studio Code, Swagger
+---
+### 🔹 [MiniPay](https://github.com/GezimCollaku/MiniPay)
+> A payment management platform built with ASP.NET Core Web API and a responsive frontend dashboard.
+
+- HTML, CSS, JavaScript
+- C#
+- ASP.NET Core Web API
+- SQL Server
+- Entity Framework Core
+- Swagger / OpenAPI
+  
 
 ---
-
-## 🚀 My Projects
-
-Here are a few full-stack websites I've built:
 
 ### 🔹 [Real Estate](https://github.com/GezimCollaku/Real-Estate)
 >A Real Estate website with a responsive frontend and Django-powered backend.
