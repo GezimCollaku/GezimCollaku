@@ -9,10 +9,10 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** Python (Django)  
-**Database:** SQLite, PostgreSQL (via Django)  
-**Tools & Platforms:** Git, GitHub
+**Frontend: HTML, CSS, JavaScript
+**Backend: Python (Django), C#, ASP.NET Core Web API
+**Database: SQLite, PostgreSQL, SQL Server, Entity Framework Core
+**Tools & Platforms: Git, GitHub, Visual Studio Code, Swagger
 
 ---
 
